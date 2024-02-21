@@ -45,6 +45,6 @@ bash scripts/train.sh
 ## 推理预测
 - 使用微调后的模型测试
 ```
-bash scripts/resgen.sh
+bash scripts/res_gen.sh
 ```
 
